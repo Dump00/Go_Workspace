@@ -13,4 +13,7 @@ func main() {
 
 	y := 50 + 30
 	fmt.Println(y)
+
+	z := "James Bond"
+	fmt.Println(z)
 }
